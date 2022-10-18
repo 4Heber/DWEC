@@ -16,7 +16,7 @@ Javascript
 - Funciones
     - Funcioens tipo método
     - Funciones con argumentos
-    - Funciones con **return**
+    - Funciones con *return*
     - Ámbito de variables
     
 - **Document Object Model**
@@ -31,11 +31,11 @@ Javascript
 - Asynchronous javascript
     - Event handlers
     - Callbacks
-    - Using **fetch()** API
+    - Using *fetch()* API
     - Chaining promises
     - Catching errors
     - Combining multiples promises
-    - **async & await**
+    - *async & await*
     - Third party APIs
 
 - JS OOP (Object Oriented Programming)
@@ -48,7 +48,7 @@ Javascript
 - Vue.js - Framework
     - Creación de componentes
     - Renderizar lista de componentes
-    - Crear un nuevo **To-do form**
+    - Crear un nuevo *To-do form*
     - Eventos, métodos y modelos
     - Estilizar componentes Vue con CSS
     - Vue computed properties
