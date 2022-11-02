@@ -5,11 +5,13 @@ var button = document.getElementById('bttn_check');
 var inputField = document.getElementById('sentence');
 var txtOutput = document.getElementById('output');
 
-console.log(typeof inputField.value);
 
 function palindromo(sentence){
+    
     var counter = 0;
-    sentence = sentence.trim().split('');
+    sentence = sentence.replace(/ /g,"");
+    sentence = sentence.toLowerCase().trim().split('');
+    // console.log(sentence);
 
     try{
         let index = 0;
